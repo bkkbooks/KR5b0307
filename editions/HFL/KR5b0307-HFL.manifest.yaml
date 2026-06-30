@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR5b0307/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0307/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 仙都志
+  date: '2015-08-29 00:16:07.112346'
+  source:
+    repository: kanripo
+    path: KR5b0307
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0307_000-HFL.yaml, hash: 'sha256:64f7e97bdfbdd149584418eed3d016b7e5ed825ee2f07e13a7df8669102fa77d'}
+  - {seq: 1, filename: KR5b0307_001-HFL.yaml, hash: 'sha256:c0a9dd396527e04ab8a0061af337729a276049b41b49b922bbdd359679731038'}
+  - {seq: 2, filename: KR5b0307_002-HFL.yaml, hash: 'sha256:6797ad4d649d1d963bab5526ab5e70bb4871b9041a1498784b22bf8e6ee3acec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0307_000-HFL.markers.yaml, hash: 'sha256:4893838b3a727b7d94950355d9afe4013fb07bc0f68d306f5ce92c7a06b78950'}
+  - {seq: 1, role: markers, filename: assets/KR5b0307_001-HFL.markers.yaml, hash: 'sha256:cda7ff28ad9095cae0fca1b610cb5b9ab76717b44af9e3f1f403319f0279a6ea'}
+  - {seq: 2, role: markers, filename: assets/KR5b0307_002-HFL.markers.yaml, hash: 'sha256:8a64f935b941b791090f5c8ad1b92ab922b4706c23684ab692dbaf9ec1e107c0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0307_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 182
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0307_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 4175
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5b0307_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 6760
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:7d6eefa229eded5f3479bf3b127e526c774c99c8f671f7d73c8c11d5c9afd313

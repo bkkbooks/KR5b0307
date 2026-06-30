@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0307/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仙都志序鞠四疆理之書肇於禹貢而具於職方然水有經郡邑有乘此仙都志所由作也仙都東吳勝事在道家書為祈仙洞天爰自發蹟軒轅由唐建宋錫名薦祉符瑞屢臻聖朝延祐間貞士趙虛一載奉璽書來領事山川草木昭被寵光獨峰鍊溪若增而髙浚而深也住山陳君此一載筆于編沿革瑰竒巨細畢録其有功兹山者歟吾聞蓬萊在望而風輒弘去桃源既入而路忽迷則名山大川豈人人之所能周覽哉此編目擊道存可以卧游矣至正戊子五月既望
+  hash: sha256:4ae2327e62328238deed3b56d3fdf88eae90bf5a5d9d468e5497c8dd8a270752
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0307_HFL_000-001a, image: hfl/0331/0331-132.png}
+metadata:
+  title: 仙都志
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:16:07.112346'
+  source:
+    repository: kanripo
+    path: KR5b0307/KR5b0307_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:530791ae66168955b992e14953fd8ec2ab4e732f48e20eb03084c0fcb0e6aa55
